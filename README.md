@@ -1,3 +1,5 @@
+#About the project
+  A clone of Framip website
 # testingtables
 
 ## Project setup
